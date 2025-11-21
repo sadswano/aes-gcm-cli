@@ -25,7 +25,7 @@ A small, educational Python CLI tool for **encrypting and decrypting sentences**
 - Simple **terminal menu** – no extra UI needed
 
 ---
-## 🧠 How It Works (Like a Tiny Crypto Wallet)
+##  How It Works (Like a Tiny Crypto Wallet)
 
 You can think of this tool as a very simple, local-only version of a **cryptocurrency wallet**, but for **encrypted sentences** instead of coins.
 
@@ -46,7 +46,7 @@ The program never stores your password; it only uses it to derive a key, encrypt
 
 ---
 
-### 🔑 From Password to Encryption Key (like deriving a wallet key)
+###  From Password to Encryption Key (like deriving a wallet key)
 
 In a crypto wallet, your **seed phrase** is turned into a long secret key using specific algorithms.
 
@@ -69,7 +69,7 @@ Think of it like:
 
 ---
 
-### 🔒 Encrypting (like sending coins to an address that only your key can unlock)
+### Encrypting (like sending coins to an address that only your key can unlock)
 
 When you encrypt a sentence:
 
