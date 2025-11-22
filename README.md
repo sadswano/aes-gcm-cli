@@ -1,4 +1,5 @@
 #  AES-GCM Sentence Encryption Tool
+<img width="1408" height="768" alt="1763814632889-019aab8b-0314-7735-962e-fbf485eeb2bb" src="https://github.com/user-attachments/assets/302b4795-24c6-4039-ad54-eaa8f2de9d3d" />
 
 A small, educational Python CLI tool for **encrypting and decrypting sentences** using modern cryptography:
 
@@ -29,7 +30,7 @@ A small, educational Python CLI tool for **encrypting and decrypting sentences**
 
 You can think of this tool as a very simple, local-only version of a **cryptocurrency wallet**, but for **encrypted sentences** instead of coins.
 
-### 🏦 The Core Idea
+###  The Core Idea
 
 - In a crypto wallet:
   - Your **private key / seed phrase** controls access to your funds.
